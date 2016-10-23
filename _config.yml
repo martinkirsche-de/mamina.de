@@ -1,19 +1,19 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Mamina
+email:       info@mamina.de
+author:      Martina Kirsche
+description: "Kinderbetreuung bei Mamina"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://www.mamina.de"
 date_format: "%b %-d, %Y"
 
 # Contact settings
 
 contact:
-  name: Pixyll
-  phone: +49 30 456789
-  street: Spandauer Straße 5
-  city: 10178 Berlin
+  name: Martina Kirsche
+  phone: 0351&nbsp;8584237
+  street: Schützenhofstr. 32
+  city: 01129 Dresden
 
 # Google services
 google_verification:

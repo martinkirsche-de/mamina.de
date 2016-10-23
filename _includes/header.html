@@ -1,7 +1,8 @@
 <header class="site-header px2 px-responsive">
   <div class="mt2 wrap">
     <div class="measure">
-      <a href="{{ site.url }}" class="site-title">{{ site.title }}<p>{{ site.description }}</p></a>
+      <a href="{{ site.url }}" class="site-title">Kinderbetreuung bei {{ site.title }}</a>
+       
       <nav class="site-nav">
         {% include navigation.html %}
       </nav>
@@ -9,6 +10,8 @@
       {% if site.show_social_icons %}
         {% include social_links.html %}
       {% endif %}
+           <p>{{ site.contact.name }} ● Tagesmutter ● {{ site.contact.street }} ● {{ site.contact.city }}
+Telefon:&nbsp;{{ site.contact.phone }} ● E-Mail:&nbsp;<a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
     </div>
   </div>
 </header>
