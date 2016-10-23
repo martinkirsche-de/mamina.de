@@ -31,4 +31,4 @@ Miteinander in Beziehung sein und jeden Tag ein Stück über sich hinauswachsen,
 15<sup>30</sup> | Aufräumen, Anziehen, Rausgehen, Verabschiedung der Kinder: Schlusslied singen
 16<sup>00</sup> | Abholen
 
-Vereinbaren Sie mit mir einen Termin für einen Besuch in der Villa Mimi.
+Vereinbaren Sie mit mir einen Termin für einen Besuch bei mir.
