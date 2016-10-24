@@ -10,10 +10,10 @@ date_format: "%b %-d, %Y"
 # Contact settings
 
 contact:
-  name: Martina Kirsche
+  name: Martina&nbsp;Kirsche
   phone: 0351&nbsp;8584237
-  street: Schützenhofstr. 32
-  city: 01129 Dresden
+  street: Schützenhofstr.&nbsp;32
+  city: 01129&nbsp;Dresden
 
 # Google services
 google_verification:
