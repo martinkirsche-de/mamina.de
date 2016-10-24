@@ -1,7 +1,7 @@
 ---
 layout:     page
 title:      Kontakt
-show_on:    navigation, footer
+show_on:    footer
 weight:     0
 ---
 
