@@ -1,8 +1,8 @@
 # Site settings
-title:       Mamina
+title:       "Kinderbetreuung bei Martina"
 email:       info@mamina.de
 author:      Martina Kirsche
-description: "Kinderbetreuung bei Mamina"
+description: "Kinderbetreuung bei Martina"
 baseurl:     ""
 url:         "http://www.mamina.de"
 date_format: "%b %-d, %Y"

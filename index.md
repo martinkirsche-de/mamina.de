@@ -1,13 +1,11 @@
 ---
 layout: page
+title:  "Herzlich willkommen!"
 ---
-
-## Herzlich willkommen!
-
 <div style="display: flex; justify-content: space-between; margin-bottom: 1em">
-  <img style="width:31%" src="images/Mama-Papa-Kind.jpg">
-  <img style="width:34.6%" src="images/Garten.jpg">
-  <img style="width:31%" src="images/Unterwegs.jpg">
+  <img style="width:31%;height:31%" src="images/Mama-Papa-Kind.jpg">
+  <img style="width:34.6%;height:34.6%" src="images/Garten.jpg">
+  <img style="width:31%;;height:31%" src="images/Unterwegs.jpg">
 </div>
 
 Liebe Eltern,
